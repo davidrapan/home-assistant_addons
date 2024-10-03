@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.8.0
+## 3.11.0
 
 - Update Alpine Linux to 3.20 (nginx 1.26.x)
 
